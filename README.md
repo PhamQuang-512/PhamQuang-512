@@ -2,7 +2,7 @@
 
 # 💫About Me :
 
-- 🌱 I’m currently learning **Kubernetes, Terraform, Google Clouud Platform, Gitlab CI, Argo Project, ...**
+- 🌱 I’m currently learning **Kubernetes, Terraform, Google Cloud Platform, Gitlab CI, Argo Project, ...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PhamQuang-512](https://github.com/PhamQuang-512)
 
